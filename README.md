@@ -1,5 +1,7 @@
 ## Lightning Talks at Turing 
 
+---
+
 ### Overview
 * Everyone in Module 2 is required to give a lightning talk. The lightning talk will be about a technical topic.
 * The lightning talk will be (max) 5 minutes long.
@@ -8,6 +10,27 @@
 * If you'd like to give a talk on another topic (possibly something particularly interesting to module 2 specifically), feel free to let me know! You **must** have your topic approved.
 * Topics are first come first serve.
 * We're giving these talks week 4 and 5 - about 2/3 talks a day.
+
+---
+
+### Picking a Topic
+
+* You don't need to be an expert on a topic. You can do the research and become expert enough to deliver a valuable talk.
+* A talk needs to teach something of value to the audience.
+* A talk needs to be at an appropriate level for the audience, not too basic and not too advanced.
+* A talk needs to have a *message*, not just a subject. "Introduction to RSpec" is boring, "Why You Should Use RSpec" has a message.
+
+#### Examples of Previous Topics: 
+
+* Using Computer Science to manipulate OKCupid
+* When Pairing Goes Wrong
+* How to Survive the Titanic with Machine Learning
+* The TDD Holy War
+* Is Elegant Ruby Fast?
+* Genetic Algorithms with Ruby Processing
+* Ancient Cryptography
+
+---
 
 ### Potential Topics
 	Computer Hardware
@@ -29,7 +52,9 @@
 	Technology & Ethics
 	Web Technologies
 
-### How to Sign Up
+---
+
+### How-To
 
 1. Fork this repository
 2. Edit the `schedule.md` file by inserting your name and topic into your preferred time slot. For example:
@@ -44,3 +69,8 @@
 3. Submit a Pull Request to this repository.
 
 * If your time slot/topic is already taken, you will be notified and will need to re-evaluate your date and topic choice.
+
+4. Submit an outline to Casey a week before your lightning talk. 
+
+5. At some point before the day of your lightning talk, you'll need to touch base with Casey to run through your talk. **You** are responsible for reaching out to schedule this. If you don't run through your talk prior to the day of, you will have to reschedule your talk.
+ 
