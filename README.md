@@ -68,7 +68,7 @@
 
 3. Submit a Pull Request to this repository.
 
-* If your time slot/topic is already taken, you will be notified and will need to re-evaluate your date and topic choice.
+* We will be reviewing time slots/topics based on when pull requests are submitted. *You may not see that a time slot/topic has been taken if we have not yet merged a pull request to master.*
 
 4. Submit an outline to Casey a week before your lightning talk. 
 
