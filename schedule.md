@@ -2,7 +2,7 @@
 
 ### Tuesday, September 6th
 
-1.
+1. Jesse Spevack - Why Edtech sucks, and what you can do about it.
 2.
 3. 
 
