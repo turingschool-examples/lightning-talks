@@ -8,7 +8,7 @@
 
 ### Wednesday, September 7th
 
-1.
+1.Brian Heim - Programming & The Arts: toneprint technology from TC Electronics (musical instrument effects)
 2.
 3. 
 
