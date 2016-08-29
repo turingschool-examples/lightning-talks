@@ -3,7 +3,7 @@
 ### Tuesday, September 6th
 
 1. Jesse Spevack - Why Edtech sucks, and what you can do about it.
-2.
+2. Jasmin Hudacsek - What the Heck Does DevOps Mean and Why You Should Care
 3. 
 
 ### Wednesday, September 7th
