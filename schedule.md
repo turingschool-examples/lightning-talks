@@ -14,7 +14,7 @@
 
 ### Thursday, September 8th
 
-1.
+1. Jean Joeris - The Physics of Semi-Conductors
 2.
 3. 
 
