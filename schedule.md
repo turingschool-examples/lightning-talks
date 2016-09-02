@@ -20,7 +20,7 @@
 
 ### Friday, September 9th
 
-1.
+1. Ryan Workman - The Downfall of Small Video Game Dev Teams and High Expectations on Kickstarter
 2.
 3. 
 
