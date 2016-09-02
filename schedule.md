@@ -15,7 +15,7 @@
 ### Thursday, September 8th
 
 1. Jean Joeris - The Physics of Semi-Conductors
-2.
+2. Brendan Dillon - Responsive Typography
 3. 
 
 ### Friday, September 9th
