@@ -47,9 +47,3 @@
 1. Susi - Be a Programming Maestro (life according to Victor Wooten)
 2.
 3. 
-
-### Friday, September 16th
-
-1.
-2.
-3. 
