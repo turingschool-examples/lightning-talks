@@ -32,7 +32,7 @@
 
 ### Tuesday, September 13th
 
-1.
+1. Goss - AI will take your job.
 2.
 3. 
 
