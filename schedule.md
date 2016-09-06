@@ -16,7 +16,7 @@
 
 1. Jean Joeris - The Physics of Semi-Conductors
 2. Brendan Dillon - Responsive Typography
-3. 
+3. Dan Broadbent - Progressive Web Apps: The future of the mobile web
 
 ### Friday, September 9th
 
