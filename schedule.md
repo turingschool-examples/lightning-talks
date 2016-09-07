@@ -26,14 +26,14 @@
 
 ### Monday, September 12th
 
-1.
+1. 
 2.
 3. 
 
 ### Tuesday, September 13th
 
 1. Goss - AI will take your job.
-2.
+2. David - Hacking your Brain with VR
 3. 
 
 ### Wednesday, September 14th
