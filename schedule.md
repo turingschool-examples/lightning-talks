@@ -9,7 +9,7 @@
 ### Wednesday, September 7th
 
 1. Brian Heim - Programming & The Arts: toneprint technology from TC Electronics (musical instrument effects)
-2. Ben Pepper  - The Euroion Constalation
+2. 
 3. Sonia Gupta - A Brief History of SETI and current developments
 
 ### Thursday, September 8th
@@ -22,7 +22,7 @@
 
 1. Ryan Workman - The Downfall of Small Video Game Dev Teams and High Expectations on Kickstarter
 2. Calaway - TBA
-3. 
+3. Ben Pepper  - The Euroion Constalation and counterfeiting
 
 ### Monday, September 12th
 
