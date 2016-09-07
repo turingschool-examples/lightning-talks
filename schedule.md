@@ -38,7 +38,7 @@
 
 ### Wednesday, September 14th
 
-1.
+1. Nate Anderson - Do Musicians Make Better Programmers? The link between music and programming. 
 2.
 3. 
 
