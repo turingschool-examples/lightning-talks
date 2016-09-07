@@ -26,7 +26,7 @@
 
 ### Monday, September 12th
 
-1.
+1. David - Hacking your Brain with VR
 2.
 3. 
 
