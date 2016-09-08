@@ -21,7 +21,7 @@
 ### Friday, September 9th
 
 1. Ryan Workman - The Downfall of Small Video Game Dev Teams and High Expectations on Kickstarter
-2. Calaway - TBA
+2. 
 3. Ben Pepper  - The Euroion Constalation and counterfeiting
 
 ### Monday, September 12th
@@ -40,7 +40,7 @@
 
 1. Nate Anderson - Do Musicians Make Better Programmers? The link between music and programming. 
 2.
-3. 
+3. Calaway - Something about asymmetric key cryptography, probably
 
 ### Thursday, September 15th
 
