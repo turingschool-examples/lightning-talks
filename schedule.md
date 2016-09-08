@@ -26,7 +26,7 @@
 
 ### Monday, September 12th
 
-1. Google's Mindfulness Program
+1. Raphael - Google's Mindfulness Program
 2.
 3. 
 
