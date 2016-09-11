@@ -39,7 +39,7 @@
 ### Wednesday, September 14th
 
 1. Nate Anderson - Do Musicians Make Better Programmers? The link between music and programming. 
-2.
+2. Chase - What is the loudest sound you can hear?
 3. Calaway - Something about asymmetric key cryptography, probably
 
 ### Thursday, September 15th
