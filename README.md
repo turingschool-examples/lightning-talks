@@ -57,10 +57,10 @@
 ### How-To
 
 1. Fork this repository
-2. Edit the `schedule.md` file by inserting your name and topic into your preferred time slot. For example:
+2. Edit the `schedule-1608.md` file by inserting your name and topic into your preferred time slot. For example:
 
 	```
-	Tuesday, September 6th
+	Tuesday, October 4th
 	1. Penelope - History of Women in Tech
 	2.
 	3. 
