@@ -33,7 +33,7 @@
 ### Tuesday, September 13th
 
 1. Goss - AI will take your job.
-2. David - Hacking your Brain with VR
+2. 
 3. 
 
 ### Wednesday, September 14th
@@ -46,4 +46,4 @@
 
 1. Susi - Be a Programming Maestro (life according to Victor Wooten)
 2. Matt D -TBA
-3. 
+3. David - Hacking your Brain with VR
