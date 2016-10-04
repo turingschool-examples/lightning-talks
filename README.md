@@ -9,7 +9,7 @@
 * See the list of (potential) topics below.
 * If you'd like to give a talk on another topic (possibly something particularly interesting to module 2 specifically), feel free to let me know! You **must** have your topic approved.
 * Topics are first come first serve.
-* We're giving these talks week 4 and 5 - about 2/3 talks a day.
+* We're giving these talks week 2, 3, and 4 - about 2 talks a day.
 
 ---
 
