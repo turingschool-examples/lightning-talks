@@ -12,7 +12,7 @@
 
 ### Wednesday, October 12th
 
-1. 
+1. Megan Talbot
 2. 
 
 ### Thursday, October 13th
