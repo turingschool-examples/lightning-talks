@@ -2,7 +2,7 @@
 
 ### Monday, October 10th
 
-1.  
+1.  Ben Pepper (PRISM and NSA spying)
 2.  
 
 ### Tuesday, October 11th
