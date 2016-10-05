@@ -12,7 +12,7 @@
 
 ### Wednesday, October 12th
 
-1. Megan Talbot
+1. Megan Talbot - What is a Ruby Gem and Why Should You Make One?
 2. 
 
 ### Thursday, October 13th
