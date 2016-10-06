@@ -8,7 +8,8 @@
 ### Tuesday, October 11th
 
 1. Daniel Shin - Databases and Human Memory 
-2.  
+2. Anthony Ciccone - Quick Tips & Tricks for your Tech Job Search 
+
 
 ### Wednesday, October 12th
 
