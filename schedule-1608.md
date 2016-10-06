@@ -2,7 +2,7 @@
 
 ### Monday, October 10th
 
-1.  Ben Pepper (PRISM and NSA spying)
+1.  Ben Pepper (NSA tech)
 2.  Noah Berman - Web Advertising Is The Actual Worst And Why You Should Not Do It But Also How You Can Make It Better
 
 ### Tuesday, October 11th
