@@ -37,7 +37,7 @@
 
 ### Wednesday, October 19th
 
-1.   
+1.  Joey Stansfield - WE ARE LIVING INSIDE OF A COMPUTER SIMULATION  
 2.   
 
 ### Thursday, October 20th
