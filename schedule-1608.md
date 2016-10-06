@@ -8,7 +8,7 @@
 ### Tuesday, October 11th
 
 1. Daniel Shin - Databases and Human Memory 
-2.  
+2. Nicholas Martinez - Creative Destruction 
 
 ### Wednesday, October 12th
 
