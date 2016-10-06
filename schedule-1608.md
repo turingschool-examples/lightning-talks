@@ -32,7 +32,7 @@
 
 ### Tuesday, October 18th
 
-1.  
+1.  Ali Schlereth - Power your Brain with Pomodoro Breaks
 2.  
 
 ### Wednesday, October 19th
