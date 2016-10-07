@@ -22,7 +22,7 @@
 
 ### Friday, October 14th
 
-1.  
+1.  Anthony Ciccone - Tips and Tricks for your Job Search 
 2. 
 
 ### Monday, October 17th
