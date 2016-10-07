@@ -33,7 +33,7 @@
 ### Tuesday, October 18th
 
 1.  Ali Schlereth - Power your Brain with Pomodoro Breaks
-2.  
+2.  Erin Pintozzi - Accessibility
 
 ### Wednesday, October 19th
 
