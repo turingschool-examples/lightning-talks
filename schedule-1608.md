@@ -23,7 +23,7 @@
 ### Friday, October 14th
 
 1.  Anthony Ciccone - Tips and Tricks for your Job Search 
-2. 
+2.  Ryan Travitz - Locking Down Your Technology
 
 ### Monday, October 17th
 
