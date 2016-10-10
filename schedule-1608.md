@@ -67,5 +67,5 @@
 
 ### Friday, October 28th
 
-1.   
+1.   Dave Junta -- "Fintech:  ETFs, Robo-investing, and Why Nobody With Less Than $1M in Investable Assets Needs a Financial Advisor Anymore"
 2. 
