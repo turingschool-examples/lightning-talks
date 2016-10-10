@@ -42,7 +42,7 @@
 
 ### Thursday, October 20th
 
-1.   
+1.  Lee Saville - Seeing is Believing  
 2.   
 
 ### Friday, October 21st
