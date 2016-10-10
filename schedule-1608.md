@@ -62,7 +62,7 @@
 
 ### Thursday, October 27th
 
-1.   
+1. Anna Dolan - Geolocation in Ruby
 2. 
 
 ### Friday, October 28th
