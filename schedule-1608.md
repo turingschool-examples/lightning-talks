@@ -27,7 +27,7 @@
 
 ### Monday, October 17th
 
-1.  
+1.  Brad Green - The Ethics of Self-Driving Cars
 2.   
 
 ### Tuesday, October 18th
