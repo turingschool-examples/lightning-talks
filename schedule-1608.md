@@ -52,7 +52,7 @@
 
 ### Monday, October 24th
 
-1.   
+1.   Vido Seaver -  Agile is a matter of perspective
 2. 
 
 ### Wednesday, October 26th
