@@ -43,7 +43,7 @@
 ### Thursday, October 20th
 
 1.  Lee Saville - Seeing is Believing  
-2.   
+2.  Alisher Sadikov - Why you would use Ruby frameworks other than Rails/Sinatra
 
 ### Friday, October 21st
 
