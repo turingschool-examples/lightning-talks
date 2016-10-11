@@ -28,7 +28,7 @@
 ### Monday, October 17th
 
 1.  Brad Green - The Ethics of Self-Driving Cars
-2.   
+2.  Jon Kimble - Augmented and Virtual Reality
 
 ### Tuesday, October 18th
 
