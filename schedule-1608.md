@@ -17,7 +17,7 @@
 
 ### Thursday, October 13th
 
-1.  
+1. Daniel Shin - Databases and Human Memory
 2.  
 
 ### Friday, October 14th
