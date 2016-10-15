@@ -53,7 +53,7 @@
 ### Monday, October 24th
 
 1.   Vido Seaver -  Agile is a matter of perspective
-2. 
+2.   Nicholas Martinez - Creative Destruction
 
 ### Wednesday, October 26th
 
