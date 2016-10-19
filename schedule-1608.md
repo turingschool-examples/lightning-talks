@@ -47,7 +47,7 @@
 
 ### Friday, October 21st
 
-1.   Mike Scherer - TBD
+1.   
 2.  
 
 ### Monday, October 24th
@@ -57,7 +57,7 @@
 
 ### Wednesday, October 26th
 
-1.   
+1.   Mike Scherer - Algorithmic Trade Spoofing/ Agile Practices
 2. 
 
 ### Thursday, October 27th
