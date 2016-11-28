@@ -63,7 +63,7 @@
 ### Thursday, December 21st
 
 1. 
-2. 
+2. Daniel Rodriguez
 
 ### Tuesday, January 3rd 
 
