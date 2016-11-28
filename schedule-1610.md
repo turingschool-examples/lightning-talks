@@ -22,7 +22,7 @@
 
 ### Friday, December 9th
 
-1. 
+1. Jason Conrad "Utilization of VR in entertainment and attractions"
 2.  
 
 ### Monday, December 12th
