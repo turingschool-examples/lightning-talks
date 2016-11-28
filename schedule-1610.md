@@ -47,7 +47,7 @@
 
 ### Friday, December 16th
 
-1.   
+1.  Drew Palazzari 
 2.  
 
 ### Monday, December 19th
