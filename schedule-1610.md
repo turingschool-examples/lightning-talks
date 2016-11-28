@@ -7,8 +7,8 @@
 
 ### Tuesday, December 6th
 
-1.
-2.
+1. 
+2. 
 
 ### Wednesday, December 7th
 
