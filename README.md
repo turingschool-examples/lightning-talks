@@ -57,10 +57,10 @@
 ### How-To
 
 1. Fork this repository
-2. Edit the `schedule-1608.md` file by inserting your name and topic into your preferred time slot. For example:
+2. Edit the `schedule-1610.md` file by inserting your name and topic into your preferred time slot. For example:
 
 	```
-	Tuesday, October 4th
+	Tuesday, December 3rd
 	1. Penelope - History of Women in Tech
 	2.
 	3. 
@@ -70,5 +70,5 @@
 
 	* Note: We will be reviewing time slots/topics based on when pull requests are submitted. *You may not see that a time slot/topic has been taken if we have not yet merged a pull request to master.*
 
-4. At some point before the day of your lightning talk, you'll need to touch base with your anchor to run through your talk. **You** are responsible for reaching out to schedule this. It is not required to physically meet (unless you'd like) - it's also okay to send an outline of your talk via Slack to get it approved. If you don't run through your talk prior to the day of, you will have to reschedule your talk.
+4. At some point before the day of your lightning talk, you'll need to touch base with your anchor to run through your talk. **You** are responsible for reaching out to schedule this. It is not required to physically meet (unless you'd like) - it's also okay to send an outline of your talk via Slack to get it approved. If you don't run through your talk prior to the day of, **you will have to reschedule your talk.**
  
