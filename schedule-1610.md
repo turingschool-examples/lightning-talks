@@ -67,7 +67,7 @@
 
 ### Tuesday, January 3rd 
 
-1.   
+1. Kyle Heppenstall - Topic in Progress
 2. 
 
 ### Wednesday, January 4th
