@@ -2,7 +2,7 @@
 
 ### Monday, December 5th
 
-1.  
+1. Mike Schutte - Ruby's Forwardable module
 2.  
 
 ### Tuesday, December 6th
