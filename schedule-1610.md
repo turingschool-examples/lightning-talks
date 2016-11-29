@@ -48,7 +48,7 @@
 ### Friday, December 16th
 
 1.   Amy Kintner
-2.  
+2.  Drew Palazzari  
 
 ### Monday, December 19th
 
