@@ -52,7 +52,7 @@
 
 ### Monday, December 19th
 
-1.  
+1.  Brett - Mechanical Keyboards
 2.   
 
 ### Wednesday, December 20th
