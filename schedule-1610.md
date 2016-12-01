@@ -55,14 +55,14 @@
 1.  Brett - Mechanical Keyboards
 2.   
 
-### Wednesday, December 20th
+### Wednesday, December 21st
 
 1.   
 2. 
 
-### Thursday, December 21st
+### Thursday, December 22nd
 
-1. 
+1. Robbie Smith - Topic in Progress
 2. Daniel Rodriguez - Topic in Progress
 
 ### Tuesday, January 3rd 
