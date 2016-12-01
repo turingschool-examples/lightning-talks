@@ -27,7 +27,7 @@
 
 ### Monday, December 12th
 
-1.  
+1. Annie Wolff "CSS Animations: Make Things Move!!" 
 2.  
 
 ### Tuesday, December 13th
