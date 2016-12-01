@@ -23,7 +23,7 @@
 ### Friday, December 9th
 
 1. Jason Conrad "Utilization of VR in entertainment and attractions"
-2.  
+2. Molly Brown - CAPTCHA 
 
 ### Monday, December 12th
 
