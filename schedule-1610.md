@@ -67,7 +67,7 @@
 
 ### Tuesday, January 3rd 
 
-1. Kyle Heppenstall - Topic in Progress
+1. Kyle Heppenstall - Non Relational Databases
 2. 
 
 ### Wednesday, January 4th
