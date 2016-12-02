@@ -53,7 +53,7 @@
 ### Monday, December 19th
 
 1.  Brett - Mechanical Keyboards
-2.   
+2.  Jesse - Ruby CONSTANTS.. 
 
 ### Wednesday, December 21st
 
