@@ -57,7 +57,7 @@
 
 ### Wednesday, December 21st
 
-1.   
+1.  Laszlo Balogh - What "else" can we use Ruby for?
 2. 
 
 ### Thursday, December 22nd
