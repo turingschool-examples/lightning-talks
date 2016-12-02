@@ -28,7 +28,7 @@
 ### Monday, December 12th
 
 1. Annie Wolff "CSS Animations: Make Things Move!!" 
-2.  
+2. Caroline Powell "The Best Tech Tools in Sustainability"
 
 ### Tuesday, December 13th
 
