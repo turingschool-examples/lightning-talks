@@ -63,7 +63,7 @@
 ### Thursday, December 22nd
 
 1. Robbie Smith - Topic in Progress
-2. Daniel Rodriguez - Topic in Progress
+2. Daniel Rodriguez - The Dark Web
 
 ### Tuesday, January 3rd 
 
