@@ -37,7 +37,7 @@
 
 ### Wednesday, December 14th
 
-1.    
+1. Ethan Bennett: Music Information Retrieval with Machine Learning (Basics)    
 2.   
 
 ### Thursday, December 15th
