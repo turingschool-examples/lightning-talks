@@ -42,7 +42,7 @@
 
 ### Thursday, December 15th
 
-1.   
+1.  Eric - The power of Pheonix over Rails
 2.  David Knott: Why Haskel Rocks!
 
 ### Friday, December 16th
