@@ -47,7 +47,7 @@
 
 ### Friday, December 16th
 
-1.   Amy Kintner
+1.  Amy Kintner - What's that Noise? The Early Years of Computers as Musical Tools
 2.  Drew Palazzari  
 
 ### Monday, December 19th
