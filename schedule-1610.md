@@ -43,7 +43,7 @@
 ### Thursday, December 15th
 
 1.   
-2.  
+2.  David Knott: Why Haskel Rocks!
 
 ### Friday, December 16th
 
