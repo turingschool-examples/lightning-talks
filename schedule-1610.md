@@ -32,7 +32,7 @@
 
 ### Tuesday, December 13th
 
-1.  
+1.  Josh Cohen "Computer Hardware"
 2.  
 
 ### Wednesday, December 14th
