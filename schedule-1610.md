@@ -33,7 +33,7 @@
 ### Tuesday, December 13th
 
 1.  Lucy Conklin: SASS, It's Not Just for Teenagers Anymore
-2.  
+2.  Nicholas Erhardt "It's time to stop saying 'Yeah, yeah' to stronger passwords and actually start using them"
 
 ### Wednesday, December 14th
 
