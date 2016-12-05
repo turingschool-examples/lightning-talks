@@ -32,7 +32,7 @@
 
 ### Tuesday, December 13th
 
-1.  
+1.  Nicholas Erhardt "It's time to stop saying 'Yeah, yeah' to stronger passwords and actually start using them"
 2.  
 
 ### Wednesday, December 14th
