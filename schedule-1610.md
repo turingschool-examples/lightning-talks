@@ -42,7 +42,7 @@
 
 ### Thursday, December 15th
 
-1.   
+1. Eric - The power of Pheonix over Rails
 2.  
 
 ### Friday, December 16th
