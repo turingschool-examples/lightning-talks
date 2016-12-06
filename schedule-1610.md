@@ -58,7 +58,7 @@
 ### Wednesday, December 21st
 
 1.  Laszlo Balogh - What "else" can we use Ruby for?
-2.  Marisa Burton - TBD
+2.  Marisa Burton - Is AI sexist?
 
 ### Thursday, December 22nd
 
