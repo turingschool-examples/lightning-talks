@@ -38,7 +38,7 @@
 ### Wednesday, December 14th
 
 1. Ethan Bennett: Music Information Retrieval with Machine Learning (Basics)    
-2.   
+2. Josh Cohen: Computer Hardware  
 
 ### Thursday, December 15th
 
