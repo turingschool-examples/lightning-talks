@@ -42,7 +42,7 @@
 
 ### Thursday, December 15th
 
-1.  Eric - The power of Pheonix over Rails
+1.  
 2.  David Knott: Why Haskel Rocks!
 
 ### Friday, December 16th
@@ -68,12 +68,12 @@
 ### Tuesday, January 3rd
 
 1. Kyle Heppenstall - Non Relational Databases
-2.
+2. 
 
 ### Wednesday, January 4th
 
 1. Nick Gheorghita - Python Notebooks
-2.
+2. Eric - The power of Pheonix over Rails
 
 ### Thursday, January 5th
 
