@@ -62,7 +62,7 @@
 
 ### Thursday, December 22nd
 
-1. Robbie Smith - Topic in Progress
+1. Robbie Smith - Oauth
 2. Daniel Rodriguez - The Dark Web
 
 ### Tuesday, January 3rd
