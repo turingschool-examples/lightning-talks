@@ -48,7 +48,7 @@
 ### Friday, December 16th
 
 1.  Amy Kintner - What's that Noise? The Early Years of Computers as Musical Tools
-2.  Drew Palazzari  
+2.  
 
 ### Monday, December 19th
 
@@ -68,7 +68,7 @@
 ### Tuesday, January 3rd
 
 1. Kyle Heppenstall - Non Relational Databases
-2. 
+2. Drew Palazzari - Email Security
 
 ### Wednesday, January 4th
 
