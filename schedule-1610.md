@@ -63,7 +63,7 @@
 ### Thursday, December 22nd
 
 1. Robbie Smith - Oauth
-2. Daniel Rodriguez - The Dark Web
+2.
 
 ### Tuesday, January 3rd
 
@@ -77,7 +77,7 @@
 
 ### Thursday, January 5th
 
-1.
+1. Daniel Rodriguez - The Dark Web
 2.
 
 ### Friday, January 6th
