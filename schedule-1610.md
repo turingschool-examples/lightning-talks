@@ -53,7 +53,7 @@
 ### Monday, December 19th
 
 1.  Brett - Mechanical Keyboards
-2.  Jesse - Ruby CONSTANTS..
+.
 
 ### Wednesday, December 21st
 
@@ -77,9 +77,8 @@
 
 ### Thursday, January 5th
 
-1. Daniel Rodriguez - The Dark Web
-2.
-
+1. Daniel Rodriguez - The Dark Web.
+2.  Jesse - Ruby CONSTANTS.
 ### Friday, January 6th
 
 1.
