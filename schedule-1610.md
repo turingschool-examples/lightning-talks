@@ -67,7 +67,7 @@
 
 ### Tuesday, January 3rd
 
-1. Kyle Heppenstall - Non Relational Databases
+1. Kyle Heppenstall - RSA Encryption
 2. Drew Palazzari - Email Security
 
 ### Wednesday, January 4th
