@@ -68,7 +68,7 @@
 ### Tuesday, January 3rd
 
 1. Kyle Heppenstall - RSA Encryption
-2. Drew Palazzari - Email Security
+2. Drew Palazzari - Useful Rails Gems
 
 ### Wednesday, January 4th
 
