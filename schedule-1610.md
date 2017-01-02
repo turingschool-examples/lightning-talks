@@ -72,7 +72,7 @@
 
 ### Wednesday, January 4th
 
-1. Nick Gheorghita - Python Notebooks
+1. Nick Gheorghita - Blockchain Technologies
 2. 
 
 ### Thursday, January 5th
